@@ -2405,6 +2405,11 @@ portfolio
   font-size: 10px;
 }
 
+.resized-image {
+    width: 200px;
+    height: 150px;
+}
+
 /* ----- fancybox customization ----- */
 .fancybox-container {
   margin: 15px;
