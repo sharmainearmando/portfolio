@@ -2247,8 +2247,8 @@ portfolio
 }
 .art-portfolio-item-frame img {
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 100px;
+  height: 100px;
   top: 0;
   left: 0;
   -o-object-fit: cover;
